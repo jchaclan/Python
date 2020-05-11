@@ -8,7 +8,7 @@ class Cat:
 
 
 # 1 Instantiate the Cat object with 3 cats
-
+# THIS IS ALSO POSSIBLE ->>> my_cats = [Simon('Simon', 4), Sally('Sally', 21), Suzy('Suzy', 1)]
 cat1 = Cat('Freddy', 10)
 cat2 = Cat('Manny', 8)
 cat3 = Cat('Lucy', 9)
