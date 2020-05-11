@@ -37,6 +37,7 @@ class Lolly(Cat):
 
 
 # 2 Create a list of all of the pets (create 3 cat instances from the above)
+# THIS IS ALSO POSSIBLE ->>> my_cats = [Simon('Simon', 4), Sally('Sally', 21), Suzy('Suzy', 1)]
 simon = Simon('Simon', 10)
 sally = Sally('Sally', 14)
 lolly = Lolly('Lolly', 7)
