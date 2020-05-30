@@ -29,6 +29,7 @@ def create_custom_hn(links, subtext):
             #print(points)
             if points > 99:
                 hn.append({'title':title, 'link':href, 'votes':points})
+                
         #print(title) 
         #print(href) 
     return hn
